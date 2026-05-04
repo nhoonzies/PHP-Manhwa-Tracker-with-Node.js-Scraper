@@ -14,6 +14,12 @@ Manhwa Tracker is a full-stack application designed to replace messy spreadsheet
 *   **Persistent Customization:** Users can click the edit icon on any playlist to assign a custom cover image URL, which is saved locally via browser LocalStorage.
 *   **Quick Progress Updates:** Update chapter progress and ratings directly from the main dashboard without navigating to separate pages.
 
+## Snapshots 
+<img width="1877" height="922" alt="image" src="https://github.com/user-attachments/assets/61828794-e117-4c93-8ad9-b0f27b4a5572" />
+<img width="1872" height="920" alt="image" src="https://github.com/user-attachments/assets/b3b65e20-278b-46d8-8ef6-6485ad4620b4" />
+
+
+
 ## Tech Stack
 
 *   **Frontend:** HTML5, CSS3, TypeScript (DOM manipulation, LocalStorage, event handling)
